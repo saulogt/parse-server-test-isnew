@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parse-server": "^3.4.0"
+    "parse-server": "^4.10.15"
   }
 }
